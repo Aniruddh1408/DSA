@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aniruddh1408/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aniruddh1408/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Aniruddh1408/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aniruddh1408/DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aniruddh1408/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aniruddh1408/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Aniruddh1408/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aniruddh1408/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Aniruddh1408/DSA/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Aniruddh1408/DSA/tree/master/2048-build-array-from-permutation) |
@@ -37,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aniruddh1408/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aniruddh1408/DSA/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aniruddh1408/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
