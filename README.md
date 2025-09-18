@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Aniruddh1408/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Aniruddh1408/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aniruddh1408/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Aniruddh1408/DSA/tree/master/0441-arranging-coins) |
 ## Interactive
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Aniruddh1408/DSA/tree/master/0441-arranging-coins) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aniruddh1408/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
