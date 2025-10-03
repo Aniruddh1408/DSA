@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Aniruddh1408/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Aniruddh1408/DSA/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aniruddh1408/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aniruddh1408/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Aniruddh1408/DSA/tree/master/1646-kth-missing-positive-number) |
 ## Interactive
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Aniruddh1408/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Aniruddh1408/DSA/tree/master/0645-set-mismatch) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aniruddh1408/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aniruddh1408/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Aniruddh1408/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/Aniruddh1408/DSA/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Aniruddh1408/DSA/tree/master/2048-build-array-from-permutation) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aniruddh1408/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aniruddh1408/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aniruddh1408/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Aniruddh1408/DSA/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
