@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Aniruddh1408/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Aniruddh1408/DSA/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aniruddh1408/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Aniruddh1408/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aniruddh1408/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Aniruddh1408/DSA/tree/master/1646-kth-missing-positive-number) |
 ## Interactive
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Aniruddh1408/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Aniruddh1408/DSA/tree/master/0645-set-mismatch) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aniruddh1408/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Aniruddh1408/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aniruddh1408/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Aniruddh1408/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/Aniruddh1408/DSA/tree/master/1791-richest-customer-wealth) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniruddh1408/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Aniruddh1408/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/Aniruddh1408/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Aniruddh1408/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aniruddh1408/DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Aniruddh1408/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Aniruddh1408/DSA/tree/master/0645-set-mismatch) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Aniruddh1408/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aniruddh1408/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aniruddh1408/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Aniruddh1408/DSA/tree/master/0645-set-mismatch) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Aniruddh1408/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
