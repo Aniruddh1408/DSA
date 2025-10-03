@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Aniruddh1408/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/Aniruddh1408/DSA/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Aniruddh1408/DSA/tree/master/2048-build-array-from-permutation) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Aniruddh1408/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aniruddh1408/DSA/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Aniruddh1408/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aniruddh1408/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Aniruddh1408/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aniruddh1408/DSA/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Aniruddh1408/DSA/tree/master/0645-set-mismatch) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aniruddh1408/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Aniruddh1408/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,4 +124,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Aniruddh1408/DSA/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Aniruddh1408/DSA/tree/master/0680-valid-palindrome-ii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Aniruddh1408/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
