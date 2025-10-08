@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Aniruddh1408/DSA/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Aniruddh1408/DSA/tree/master/0441-arranging-coins) |
+| [1013-fibonacci-number](https://github.com/Aniruddh1408/DSA/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aniruddh1408/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
@@ -125,4 +126,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aniruddh1408/DSA/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Aniruddh1408/DSA/tree/master/0680-valid-palindrome-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aniruddh1408/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Aniruddh1408/DSA/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Aniruddh1408/DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Aniruddh1408/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
