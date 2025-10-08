@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aniruddh1408/DSA/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Aniruddh1408/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1205-defanging-an-ip-address](https://github.com/Aniruddh1408/DSA/tree/master/1205-defanging-an-ip-address) |
 ## Greedy
 |  |
 | ------- |
