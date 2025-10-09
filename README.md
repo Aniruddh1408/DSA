@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Aniruddh1408/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Aniruddh1408/DSA/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Aniruddh1408/DSA/tree/master/2048-build-array-from-permutation) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aniruddh1408/DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aniruddh1408/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Aniruddh1408/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Aniruddh1408/DSA/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Aniruddh1408/DSA/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aniruddh1408/DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
 |  |
 | ------- |
