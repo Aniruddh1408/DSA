@@ -1,18 +1,22 @@
 class Solution {
     public boolean halvesAreAlike(String s) {
-        Set<Character> vowels = Set.of('a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U');
-        
-        int vowelsCount = 0;
-        for(int i = 0; i < s.length() / 2; i++) {
-            char A = s.charAt(i);
-            char B = s.charAt(s.length() / 2 + i);
-            if(vowels.contains(A)) {
-                vowelsCount++;
-            }
-            if(vowels.contains(B)) {
-                vowelsCount--;
-            }
-        }
-        return vowelsCount == 0;
+        int n = s.length();
+        String s1 = s.substring(0, n / 2);
+        String s2 = s.substring(n / 2);
+
+        int countVowels1 = countVowels(s1);
+        int countVowels2 = countVowels(s2);
+
+        return countVowels1 == countVowels2;
     }
+        public int countVowels(String s) {
+            int count = 0;
+            for(char ch : s.toCharArray()) {
+                if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u'
+                || ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U') {
+                    count++;
+                }
+            }
+            return count;
+        }
 }
