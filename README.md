@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aniruddh1408/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aniruddh1408/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aniruddh1408/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aniruddh1408/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1646-kth-missing-positive-number](https://github.com/Aniruddh1408/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Aniruddh1408/DSA/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Aniruddh1408/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
