@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Aniruddh1408/DSA/tree/master/0007-reverse-integer) |
 | [0168-excel-sheet-column-title](https://github.com/Aniruddh1408/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Aniruddh1408/DSA/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Aniruddh1408/DSA/tree/master/0441-arranging-coins) |
