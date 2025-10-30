@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Aniruddh1408/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aniruddh1408/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Aniruddh1408/DSA/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/Aniruddh1408/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Aniruddh1408/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Aniruddh1408/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aniruddh1408/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aniruddh1408/DSA/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Aniruddh1408/DSA/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Aniruddh1408/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Aniruddh1408/DSA/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Aniruddh1408/DSA/tree/master/0441-arranging-coins) |
