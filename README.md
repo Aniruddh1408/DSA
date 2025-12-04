@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aniruddh1408/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Aniruddh1408/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Aniruddh1408/DSA/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Aniruddh1408/DSA/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aniruddh1408/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Aniruddh1408/DSA/tree/master/0645-set-mismatch) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aniruddh1408/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Aniruddh1408/DSA/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/Aniruddh1408/DSA/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -206,4 +208,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Aniruddh1408/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aniruddh1408/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Aniruddh1408/DSA/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/Aniruddh1408/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
