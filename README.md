@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Aniruddh1408/DSA/tree/master/2048-build-array-from-permutation) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aniruddh1408/DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aniruddh1408/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Aniruddh1408/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Aniruddh1408/DSA/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aniruddh1408/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aniruddh1408/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Aniruddh1408/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Matrix
 |  |
 | ------- |
@@ -214,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aniruddh1408/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Aniruddh1408/DSA/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Aniruddh1408/DSA/tree/master/0494-target-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Aniruddh1408/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Aniruddh1408/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
