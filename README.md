@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Aniruddh1408/DSA/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aniruddh1408/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aniruddh1408/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aniruddh1408/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Aniruddh1408/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Matrix
 |  |
