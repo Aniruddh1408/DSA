@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aniruddh1408/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Aniruddh1408/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Aniruddh1408/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Aniruddh1408/DSA/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/Aniruddh1408/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Aniruddh1408/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aniruddh1408/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Aniruddh1408/DSA/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Aniruddh1408/DSA/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/Aniruddh1408/DSA/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Aniruddh1408/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Aniruddh1408/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aniruddh1408/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Aniruddh1408/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Aniruddh1408/DSA/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Aniruddh1408/DSA/tree/master/0494-target-sum) |
 ## Brainteaser
