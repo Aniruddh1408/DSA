@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aniruddh1408/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aniruddh1408/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aniruddh1408/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Aniruddh1408/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Aniruddh1408/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Aniruddh1408/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aniruddh1408/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aniruddh1408/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aniruddh1408/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Aniruddh1408/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Aniruddh1408/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aniruddh1408/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniruddh1408/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Aniruddh1408/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Aniruddh1408/DSA/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Aniruddh1408/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Aniruddh1408/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Aniruddh1408/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aniruddh1408/DSA/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Aniruddh1408/DSA/tree/master/0455-assign-cookies) |
