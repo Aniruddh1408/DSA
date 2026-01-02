@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aniruddh1408/DSA/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/Aniruddh1408/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Aniruddh1408/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Aniruddh1408/DSA/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Aniruddh1408/DSA/tree/master/0168-excel-sheet-column-title) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aniruddh1408/DSA/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Aniruddh1408/DSA/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/Aniruddh1408/DSA/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Aniruddh1408/DSA/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/Aniruddh1408/DSA/tree/master/1013-fibonacci-number) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aniruddh1408/DSA/tree/master/0062-unique-paths) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Aniruddh1408/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Sliding Window
 |  |
