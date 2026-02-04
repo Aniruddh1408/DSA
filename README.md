@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Aniruddh1408/DSA/tree/master/2048-build-array-from-permutation) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aniruddh1408/DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aniruddh1408/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2951-find-the-peaks](https://github.com/Aniruddh1408/DSA/tree/master/2951-find-the-peaks) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Aniruddh1408/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Math
 |  |
@@ -258,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Aniruddh1408/DSA/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/Aniruddh1408/DSA/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
